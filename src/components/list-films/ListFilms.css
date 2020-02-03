@@ -1,0 +1,4 @@
+.ListFilms{
+    display: flex;
+    flex-direction: column;
+}

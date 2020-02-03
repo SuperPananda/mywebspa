@@ -1,0 +1,26 @@
+.Filmyear-block {
+    background-color: rgb(228, 225, 225);
+    
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.film-year {
+    text-align: center;
+    font-size: 150%;
+    flex: 1;
+    margin: 10px;
+}
+
+.Filmyear-block-button {
+    margin-right: 10px;
+    display: flex;
+}
+
+.Filmyear-block-button i{
+    margin: auto;
+}
