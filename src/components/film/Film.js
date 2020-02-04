@@ -13,8 +13,7 @@ class Film extends React.Component {
     }
 
     handleHide = () => {
-        this.setState(
-            { showModal: false });
+        this.setState(state => ({ showModal: false }));
     }
 
     render() {

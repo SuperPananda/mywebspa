@@ -12,7 +12,6 @@ class App extends React.Component {
             sort: true,
         }
         this.onSort = this.onSort.bind(this);
-        //this.onSortReiting = this.onSortReiting.bind(this);
     }
 
     componentDidMount() {
