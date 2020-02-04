@@ -59,7 +59,7 @@
 }
 
 .modal-content-info {
-    max-width: 50%;
+    min-width: 50%;
     flex: 1;
 }
 
